@@ -6,4 +6,7 @@ Lämmeln är ett litet djur, mindre än en elefant men större än en myra. Kan 
 - Kan inte simma
 - Kan inte hoppa
 - Kan springa
-- Kan inte hålla i ett betydelsefullt samtal, likt en datavetare
+- Kan inte hålla i ett betydelsefullt samtal
+
+##Historia
+Det var en gång
